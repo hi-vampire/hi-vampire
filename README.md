@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvampire4&label=Profile%20views&color=0e75b6&style=flat" alt="iamvampire4" /> </p>
 
 
-- 🌱 I’m currently learning **BTECH(CSE)**
+- 🌱 I’m currently pursuing **BTECH(CSE)**
 
 - 💬 Ask me about **DSA , ANDROID**
 
