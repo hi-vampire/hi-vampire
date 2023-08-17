@@ -27,6 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="hi-vampire" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-vampire&show_icons=true&locale=en" alt="hi-vampire" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-vampire&" alt="hi-vampire" /></p>
-
