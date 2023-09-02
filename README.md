@@ -27,15 +27,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="hi-vampire" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-vampire&show_icons=true&locale=en" alt="hi-vampire" /></p>
+<br>
 
 
+<p align="center">
+<img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
 
-
-<div align="center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=krsatyam7&show_icons=true&theme=tokyonight&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=krsatyam7&theme=tokyonight&hide_border=true"/>
-    </a>
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hi-vampire" alt="hi-vampire" /> </p>
