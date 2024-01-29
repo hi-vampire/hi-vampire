@@ -1,10 +1,10 @@
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=WELCOME+EVERYONE+😈)](https://github.com/hi-vampire)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=WELCOME+EVERYONE+😈)](https://github.com/karantiwari404)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-vampire&label=Profile%20views&color=0e75b6&style=flat" alt="hi-vampire" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karantiwari404&label=Profile%20views&color=0e75b6&style=flat" alt="Karan Tiwari" /> </p>
 
 
 - 🌱 I’m currently pursuing **BTECH(CSE) In 3rd year**
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hii_vampire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hii_vampire" height="30" width="40" /></a>
+<a href="https://instagram.com/hii_vampire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karantiwari404" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-vampire&" alt="hi-vampire" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="hi-vampire" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-vampire&show_icons=true&locale=en" alt="hi-vampire" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karantiwari404&show_icons=true&locale=en" alt="karantiwari404" /></p>
 <br>
 
 
